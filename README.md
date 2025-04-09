@@ -21,7 +21,7 @@ Aqui demonstro minhas habilidades no **Roblox Studio**, com foco em **modelagem*
 
 | Caixa de Ferramentas | Terreno Plano |
 |----------------------|----------------|
-| ![Caixa de Ferramentas](robloximagem3.png) | ![Terreno Plano](robloximagem4.png) |
+| ![Caixa de Ferramentas](robloximagem3.png) | ![Terreno Plano](robloximagem6.png) |
 
 ---
 
@@ -34,7 +34,7 @@ Aqui demonstro minhas habilidades no **Roblox Studio**, com foco em **modelagem*
 
 | Moeda Animada |
 |----------------|
-| ![Moeda Girando](robloximagem5.png) |
+| ![Moeda Girando](robloximagem7.png) |
 
 ---
 
@@ -42,7 +42,7 @@ Aqui demonstro minhas habilidades no **Roblox Studio**, com foco em **modelagem*
 
 Assista ao vídeo com todas as funcionalidades aplicadas e correções realizadas:
 
-[![Clique para assistir](https://img.youtube.com/vi/ID_DO_VIDEO/0.jpg)](https://www.youtube.com/watch?v=ID_DO_VIDEO)
+[![Clique para assistir](https://img.youtube.com/vi/AuyfnPmFQUI/0.jpg)](https://youtu.be/AuyfnPmFQUI)
 
 ---
 
